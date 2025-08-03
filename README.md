@@ -1,8 +1,10 @@
-# Socially - Social Media Influencer Management Platform
+
+# Socially - Social Media Influencer Management Platform (Expo)
+
 
 ## Overview
 
-Socially is a comprehensive social media management platform designed for content creators and influencers. It streamlines content creation, management, analytics, and business operations in one unified solution.
+Socially is a comprehensive social media management platform built with Expo, designed for content creators and influencers. It streamlines content creation, management, analytics, and business operations in one unified solution, supporting Android, iOS, and Web from a single codebase.
 
 ## Features
 
@@ -32,50 +34,74 @@ Socially is a comprehensive social media management platform designed for conten
   - Profile management
   - Statistics display (followers, posts, following)
 
+
 ## Tech Stack
 
-- React Native (Expo)
+- Expo (React Native framework)
 - TypeScript
 - Supabase (backend)
 - Expo Router
-- Various Expo modules (Camera, Image Picker, Secure Store, etc.)
+- Expo modules: Camera, Image Picker, Secure Store, Font, Haptics, Linear Gradient, Web Browser, and more
+
 
 ## Getting Started
 
 1. Clone the repository.
 2. Install dependencies:
-   ```
+   ```sh
    npm install
    ```
-3. Start the development server:
+3. Start the Expo development server:
+   ```sh
+   npx expo start
    ```
-   npm run dev
-   ```
-4. Run on Android/iOS/Web:
-   ```
-   npm run android
-   npm run ios
-   npm run web
-   ```
+4. Run on your target platform:
+   - Android: `npm run android` or use QR code in Expo Go app
+   - iOS: `npm run ios` or use QR code in Expo Go app
+   - Web: `npm run web`
+
+For more Expo CLI commands, see the [Expo documentation](https://docs.expo.dev/).
+
 
 ## Project Structure
 
-- `app/` - Main app screens and layouts
+- `app/` - Main app screens and layouts (Expo Router)
 - `components/` - Reusable UI components
 - `constants/` - Configuration files
-- `hooks/` - Custom React hooks
+- `hooks/` - Custom hooks
 - `lib/` - Supabase integration
 - `providers/` - Context providers
 - `android/` - Native Android project files
 - `assets/` - Fonts and images
 
+
 ## Implementation Status
 
 See `PROJECT_STATUS.md` for completed and in-progress features.
 
+
+
 ## Screenshots
 
-_Add your mobile screenshots here._
+Below are mobile screenshots of the Socially app:
+
+<p align="center">
+  <img src="screenshots/IMG-20250803-WA0001.jpg" alt="Screenshot 1" width="250" />
+  <img src="screenshots/IMG-20250803-WA0002.jpg" alt="Screenshot 2" width="250" />
+  <img src="screenshots/IMG-20250803-WA0003.jpg" alt="Screenshot 3" width="250" />
+  <img src="screenshots/IMG-20250803-WA0004.jpg" alt="Screenshot 4" width="250" />
+  <img src="screenshots/IMG-20250803-WA0005.jpg" alt="Screenshot 5" width="250" />
+  <img src="screenshots/IMG-20250803-WA0006.jpg" alt="Screenshot 6" width="250" />
+  <img src="screenshots/IMG-20250803-WA0007.jpg" alt="Screenshot 7" width="250" />
+  <img src="screenshots/IMG-20250803-WA0008.jpg" alt="Screenshot 8" width="250" />
+  <img src="screenshots/IMG-20250803-WA0009.jpg" alt="Screenshot 9" width="250" />
+  <img src="screenshots/IMG-20250803-WA0010.jpg" alt="Screenshot 10" width="250" />
+  <img src="screenshots/IMG-20250803-WA0011.jpg" alt="Screenshot 11" width="250" />
+  <img src="screenshots/IMG-20250803-WA0012.jpg" alt="Screenshot 12" width="250" />
+  <img src="screenshots/IMG-20250803-WA0013.jpg" alt="Screenshot 13" width="250" />
+  <img src="screenshots/IMG-20250803-WA0014.jpg" alt="Screenshot 14" width="250" />
+</p>
+
 
 ## License
 
