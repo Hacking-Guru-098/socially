@@ -80,27 +80,25 @@ For more Expo CLI commands, see the [Expo documentation](https://docs.expo.dev/)
 See `PROJECT_STATUS.md` for completed and in-progress features.
 
 
-
 ## Screenshots
 
-Below are mobile screenshots of the Socially app:
+Below are some screenshots of the app in action:
 
-<p align="center">
-  <img src="screenshots/IMG-20250803-WA0001.jpg" alt="Screenshot 1" width="250" />
-  <img src="screenshots/IMG-20250803-WA0002.jpg" alt="Screenshot 2" width="250" />
-  <img src="screenshots/IMG-20250803-WA0003.jpg" alt="Screenshot 3" width="250" />
-  <img src="screenshots/IMG-20250803-WA0004.jpg" alt="Screenshot 4" width="250" />
-  <img src="screenshots/IMG-20250803-WA0005.jpg" alt="Screenshot 5" width="250" />
-  <img src="screenshots/IMG-20250803-WA0006.jpg" alt="Screenshot 6" width="250" />
-  <img src="screenshots/IMG-20250803-WA0007.jpg" alt="Screenshot 7" width="250" />
-  <img src="screenshots/IMG-20250803-WA0008.jpg" alt="Screenshot 8" width="250" />
-  <img src="screenshots/IMG-20250803-WA0009.jpg" alt="Screenshot 9" width="250" />
-  <img src="screenshots/IMG-20250803-WA0010.jpg" alt="Screenshot 10" width="250" />
-  <img src="screenshots/IMG-20250803-WA0011.jpg" alt="Screenshot 11" width="250" />
-  <img src="screenshots/IMG-20250803-WA0012.jpg" alt="Screenshot 12" width="250" />
-  <img src="screenshots/IMG-20250803-WA0013.jpg" alt="Screenshot 13" width="250" />
-  <img src="screenshots/IMG-20250803-WA0014.jpg" alt="Screenshot 14" width="250" />
-</p>
+| Home Screen | Campus Map | Clubs |
+|-------------|------------|-------|
+| ![Home](screenshot/IMG-20250803-WA0015.jpg) | ![Map](screenshot/IMG-20250803-WA0016.jpg) | ![Clubs](screenshot/IMG-20250803-WA0017.jpg) |
+
+| Course Materials | Event Details | Marketplace |
+|------------------|--------------|-------------|
+| ![Materials](screenshot/IMG-20250803-WA0018.jpg) | ![Events](screenshot/IMG-20250803-WA0019.jpg) | ![Marketplace](screenshot/IMG-20250803-WA0020.jpg) |
+
+| Past Papers | Study Groups | Study Timer |
+|-------------|--------------|-------------|
+| ![Past Papers](screenshot/IMG-20250803-WA0021.jpg) | ![Groups](screenshot/IMG-20250803-WA0022.jpg) | ![Timer](screenshot/IMG-20250803-WA0023.jpg) |
+
+| Login | Signup |
+|-------|--------|
+| ![Login](screenshot/IMG-20250803-WA0024.jpg) | ![Signup](screenshot/IMG-20250803-WA0025.jpg) |
 
 
 ## License
