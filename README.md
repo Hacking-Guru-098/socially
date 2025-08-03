@@ -80,25 +80,29 @@ For more Expo CLI commands, see the [Expo documentation](https://docs.expo.dev/)
 See `PROJECT_STATUS.md` for completed and in-progress features.
 
 
-## Screenshots
+## screenshotss
 
-Below are some screenshots of the app in action:
+Below are some screenshotss of the app in action:
 
-| Home Screen | Campus Map | Clubs |
+| Home Screen | Content Studio | Business Overview |
 |-------------|------------|-------|
-| ![Home](screenshot/IMG-20250803-WA0015.jpg) | ![Map](screenshot/IMG-20250803-WA0016.jpg) | ![Clubs](screenshot/IMG-20250803-WA0017.jpg) |
+| ![Home](screenshots/IMG-20250803-WA0014.jpg) | ![Map](screenshots/IMG-20250803-WA0013.jpg) | ![Clubs](screenshots/IMG-20250803-WA0003.jpg) |
 
-| Course Materials | Event Details | Marketplace |
+| Finances | Profile | Analytics |
 |------------------|--------------|-------------|
-| ![Materials](screenshot/IMG-20250803-WA0018.jpg) | ![Events](screenshot/IMG-20250803-WA0019.jpg) | ![Marketplace](screenshot/IMG-20250803-WA0020.jpg) |
+| ![Materials](screenshots/IMG-20250803-WA0004.jpg) | ![Events](screenshots/IMG-20250803-WA0005.jpg) | ![Marketplace](screenshots/IMG-20250803-WA0006.jpg) |
 
-| Past Papers | Study Groups | Study Timer |
+| Content | Schedule | Drafts |
 |-------------|--------------|-------------|
-| ![Past Papers](screenshot/IMG-20250803-WA0021.jpg) | ![Groups](screenshot/IMG-20250803-WA0022.jpg) | ![Timer](screenshot/IMG-20250803-WA0023.jpg) |
+| ![Past Papers](screenshots/IMG-20250803-WA0007.jpg) | ![Groups](screenshots/IMG-20250803-WA0008.jpg) | ![Timer](screenshots/IMG-20250803-WA0009.jpg) |
+
+| Overview | Analytics | New Post |
+|-------------|--------------|-------------|
+| ![Past Papers](screenshots/IMG-20250803-WA0010.jpg) | ![Groups](screenshots/IMG-20250803-WA0011.jpg) | ![Timer](screenshots/IMG-20250803-WA0012.jpg) |
 
 | Login | Signup |
 |-------|--------|
-| ![Login](screenshot/IMG-20250803-WA0024.jpg) | ![Signup](screenshot/IMG-20250803-WA0025.jpg) |
+| ![Login](screenshots/IMG-20250803-WA0001.jpg) | ![Signup](screenshots/IMG-20250803-WA0002.jpg) |
 
 
 ## License
