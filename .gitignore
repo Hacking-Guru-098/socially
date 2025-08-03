@@ -1,0 +1,72 @@
+# dependencies
+node_modules/
+
+# expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macos
+.DS_Store
+*.pem
+
+# local env files
+
+.env
+.env.*
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+# Android
+android/app/build/
+android/.gradle/
+android/.idea/
+*.apk
+*.ap_*
+*.dex
+*.class
+*.log
+*.keystore
+
+# iOS
+ios/build/
+ios/Pods/
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj
+
+# VS Code
+.vscode/
+
+# Test coverage
+coverage/
+
+# Expo assets
+assets/fonts/
+assets/images/
+
+# Others
+*.swp
+*.swo
+
+# Ignore local configuration
+local.properties
